@@ -1,4 +1,4 @@
-# What is SmtpServer? 
+# What is SmtpServer?
 SmtpServer is a simple, but highly functional SMTP server implementation. Written entirely in C# it takes full advantage of the .NET TPL to achieve maximum performance.
 
 SmtpServer is available via NuGet https://www.nuget.org/packages/SmtpServer/
